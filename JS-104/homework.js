@@ -1,4 +1,4 @@
-//Write a function findMax that takes three arguments and returns their maximum.
+// Write a function findMax that takes three arguments and returns their maximum.
 
 
 
@@ -24,6 +24,8 @@ function evensAndOdds() {
     else{
         return("Tek Sayi")
     }
+
+
 
 }
 
