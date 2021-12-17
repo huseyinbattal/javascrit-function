@@ -1,5 +1,5 @@
 
-document.write("<p>merhaba</p>")
+//document.write("<p>merhaba</p>")
 
 
 //burası header için yazıldı
